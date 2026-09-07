@@ -1,0 +1,5 @@
+# This example only needs core ADK (which bundles python-dotenv).
+# The repo-root requirements.txt already covers it; this file documents the
+# per-example dependency explicitly.
+google-adk>=2,<3
+python-dotenv>=1.0

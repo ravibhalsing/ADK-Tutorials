@@ -1,0 +1,17 @@
+# Secrets / local env
+.env
+*.env
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# ADK local state
+.adk/
+*.db
+
+# Editor
+.vscode/
