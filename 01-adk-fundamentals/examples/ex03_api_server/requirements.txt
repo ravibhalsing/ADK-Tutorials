@@ -1,0 +1,3 @@
+# client.py uses only the Python standard library.
+# The server side needs the repo-root google-adk install and a running `adk api_server`.
+google-adk>=2,<3
